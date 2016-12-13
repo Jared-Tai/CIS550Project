@@ -4,9 +4,10 @@
 ## Table of Contents In the Repository
 * ~/Archieve
  * ~/Schema Design, Queries and DDL
-  **`SQLQueries.sql`: Queries used for retrieving data from the relational database
+ 
+  *`SQLQueries.sql`: Queries used for retrieving data from the relational database
   `DDL_NEW.sql`: The latest version of the data definition language
-  `queryTime.dox`: A calculation of the average time taken to carry out all the queries **
+  `queryTime.dox`: A calculation of the average time taken to carry out all the queries *
 
  * ~/Data Insertion
   ** Contains all the .sql files needed to populate the relational database **
