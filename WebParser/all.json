@@ -1,0 +1,720 @@
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Gold","Athlete": { "AName":"KOLEHMAINEN, Hannes","IOC":"FIN","Record":"31:20,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Silver","Athlete": { "AName":"TEWANIMA, Lewis","IOC":"USA","Record":"32:06,6"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Bronze","Athlete": { "AName":"STENROOS, Albin","IOC":"FIN","Record":"32:21,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Gold","Athlete": { "AName":"NURMI, Paavo","IOC":"FIN","Record":"31:45,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Silver","Athlete": { "AName":"GUILLEMOT, Joseph","IOC":"FRA","Record":"31:47,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Bronze","Athlete": { "AName":"WILSON, James","IOC":"GBR","Record":"31:50,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Gold","Athlete": { "AName":"RITOLA, Ville","IOC":"FIN","Record":"30:23,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Silver","Athlete": { "AName":"WIDE, Edvin","IOC":"SWE","Record":"30:55,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Bronze","Athlete": { "AName":"BERG, Eero","IOC":"FIN","Record":"31:43,0"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Gold","Athlete": { "AName":"NURMI, Paavo","IOC":"FIN","Record":"30:18,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Silver","Athlete": { "AName":"RITOLA, Ville","IOC":"FIN","Record":"30:19,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Bronze","Athlete": { "AName":"WIDE, Edvin","IOC":"SWE","Record":"31:00,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Gold","Athlete": { "AName":"KUSOCINSKI, Janusz","IOC":"POL","Record":"30:11,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Silver","Athlete": { "AName":"ISO-HOLLO, Volmari","IOC":"FIN","Record":"30:12,6"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Bronze","Athlete": { "AName":"VIRTANEN, Lauri Johannes","IOC":"FIN","Record":"31:20,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Gold","Athlete": { "AName":"SALMINEN, Ilmari","IOC":"FIN","Record":"30:15,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Silver","Athlete": { "AName":"ASKOLA, Arvo","IOC":"FIN","Record":"30:15,6"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Bronze","Athlete": { "AName":"ISO-HOLLO, Volmari","IOC":"FIN","Record":"30:20,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Gold","Athlete": { "AName":"ZáTOPEK, Emil","IOC":"TCH","Record":"29:59,6"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Silver","Athlete": { "AName":"MIMOUN, Alain O'Kacha","IOC":"FIN","Record":"31:20,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"ALBERTSSON, Bertil","IOC":"SWE","Record":"30:53,6"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Gold","Athlete": { "AName":"ZáTOPEK, Emil","IOC":"TCH","Record":"29:17,0"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Silver","Athlete": { "AName":"MIMOUN, Alain O'Kacha","IOC":"FIN","Record":"31:20,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"ANUFRIYEV, Aleksandr","IOC":"URS","Record":"29:48,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Gold","Athlete": { "AName":"KUTS, Vladimir","IOC":"URS","Record":"28:45,6"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Silver","Athlete": { "AName":"KOVáCS, József","IOC":"HUN","Record":"28:52,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Bronze","Athlete": { "AName":"LAWRENCE, Allan Cleave","IOC":"FIN","Record":"31:20,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Gold","Athlete": { "AName":"BOLOTNIKOV, Pyotr","IOC":"URS","Record":"28:32,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Silver","Athlete": { "AName":"GRODOTZKI, Hans","IOC":"GER","Record":"28:37,0"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"POWER, David","IOC":"AUS","Record":"28:38,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Gold","Athlete": { "AName":"MILLS, William","IOC":"USA","Record":"28:24,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Silver","Athlete": { "AName":"GAMMOUDI, Mohamed","IOC":"TUN","Record":"28:24,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"CLARKE, Ronald","IOC":"AUS","Record":"28:25,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Gold","Athlete": { "AName":"TEMU, Naftali","IOC":"KEN","Record":"29:27,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Silver","Athlete": { "AName":"WOLDE, Mamo","IOC":"ETH","Record":"29:28,0"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"GAMMOUDI, Mohamed","IOC":"TUN","Record":"29:34,2"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Gold","Athlete": { "AName":"VIREN, Lasse","IOC":"FIN","Record":"27:38,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Silver","Athlete": { "AName":"PUTTEMANS, Emiel","IOC":"BEL","Record":"27:39,6"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"YIFTER, Miruts","IOC":"ETH","Record":"27:41,0"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Gold","Athlete": { "AName":"VIREN, Lasse","IOC":"FIN","Record":"27:40,4"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Silver","Athlete": { "AName":"LOPES, Carlos Sousa","IOC":"FIN","Record":"31:20,8"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"FOSTER, Brendan","IOC":"GBR","Record":"27:55,0"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Gold","Athlete": { "AName":"YIFTER, Miruts","IOC":"ETH","Record":"27:42,7"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Silver","Athlete": { "AName":"MAANINKA, Kaarlo","IOC":"FIN","Record":"27:44,3"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"KEDIR, Mohammed","IOC":"ETH","Record":"27:44,7"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Gold","Athlete": { "AName":"COVA, Alberto","IOC":"ITA","Record":"27:47,54"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Silver","Athlete": { "AName":"MCLEOD, Michael","IOC":"GBR","Record":"28:06,22"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"MUSYOKI, Mike","IOC":"KEN","Record":"28:06,46"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Gold","Athlete": { "AName":"BOUTAIB, Brahim","IOC":"MAR","Record":"27:21,44"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Silver","Athlete": { "AName":"ANTIBO, Salvatore","IOC":"ITA","Record":"27:23,55"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"KIMELI, Kipkemboi","IOC":"KEN","Record":"27:25,16"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Gold","Athlete": { "AName":"SKAH, Khalid","IOC":"MAR","Record":"27:46,70"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Silver","Athlete": { "AName":"CHELIMO, Richard","IOC":"KEN","Record":"27:47,72"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"ABEBE, Addis","IOC":"ETH","Record":"28:00,07"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Gold","Athlete": { "AName":"GEBRESELASSIE, Haile","IOC":"ETH","Record":"27:07,34"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Silver","Athlete": { "AName":"TERGAT, Paul","IOC":"KEN","Record":"27:08,17"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"HISSOU, Salah","IOC":"MAR","Record":"27:28,59"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Gold","Athlete": { "AName":"GEBRESELASSIE, Haile","IOC":"ETH","Record":"27:18,20"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Silver","Athlete": { "AName":"TERGAT, Paul","IOC":"KEN","Record":"27:18,29"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"MEZGEBU, Assefa","IOC":"ETH","Record":"27:19,75"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Gold","Athlete": { "AName":"BEKELE, Kenenisa","IOC":"ETH","Record":"27:05,10"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Silver","Athlete": { "AName":"SIHINE, Sileshi","IOC":"ETH","Record":"27:09,39"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"TADESSE, Zersenay","IOC":"UNK","Record":"27:22,57"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Gold","Athlete": { "AName":"BEKELE, Kenenisa","IOC":"ETH","Record":"27:01,17"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Silver","Athlete": { "AName":"SIHINE, Sileshi","IOC":"ETH","Record":"27:02,77"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"KOGO, Micah","IOC":"KEN","Record":"27:04,11"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Gold","Athlete": { "AName":"BONDARENKO, Olga","IOC":"URS","Record":"31:05,21"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Silver","Athlete": { "AName":"MCCOLGAN, Elizabeth","IOC":"GBR","Record":"31:08,44"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"ZHUPEEVA, Elena","IOC":"URS","Record":"31:19,82"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Gold","Athlete": { "AName":"TULU, Derartu","IOC":"ETH","Record":"31:06,02"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Silver","Athlete": { "AName":"MEYER, Elana","IOC":"SAF","Record":"31:11,75"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"JENNINGS, Lynn","IOC":"USA","Record":"31:19,89"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"RIBEIRO, Fernanda","IOC":"POR","Record":"31:01,63"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Silver","Athlete": { "AName":"JUNXIA, Wang","IOC":"CHN","Record":"31:02,58"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"WAMI, Gete","IOC":"ETH","Record":"31:06,65"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"TULU, Derartu","IOC":"ETH","Record":"30:17,49"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"WAMI, Gete","IOC":"ETH","Record":"30:22,48"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"RIBEIRO, Fernanda","IOC":"POR","Record":"30:22,88"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Gold","Athlete": { "AName":"HUINA, Xing","IOC":"CHN","Record":"30:24,36"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"DIBABA, Ejegayehu","IOC":"ETH","Record":"30:24,98"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"TULU, Derartu","IOC":"ETH","Record":"30:26,42"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Gold","Athlete": { "AName":"DIBABA, Tirunesh","IOC":"ETH","Record":"29:54,66"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"ABEYLEGESSE, Elvan","IOC":"TUR","Record":"29:56,34"}}
+{ "EName":"10000m" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"FLANAGAN, Shalane","IOC":"USA","Record":"30:22,22"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Gold","Athlete": { "AName":"BLANKERS-KOEN, Fanny","IOC":"NED","Record":"24,4"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Silver","Athlete": { "AName":"WILLIAMSON, Audrey","IOC":"GBR","Record":"25,1"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"PATTERSON, Audrey","IOC":"USA","Record":"25,2"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Gold","Athlete": { "AName":"JACKSON, Marjorie","IOC":"AUS","Record":"23,7"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Silver","Athlete": { "AName":"BROUWER, Bertha","IOC":"NED","Record":"24,2"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"KHNYKINA, Nadezhda","IOC":"URS","Record":"24,2"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Gold","Athlete": { "AName":"CUTHBERT, Betty","IOC":"AUS","Record":"23,4"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Silver","Athlete": { "AName":"STUBNICK, Christa","IOC":"GER","Record":"23,7"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"MATTHEWS, Marlene","IOC":"AUS","Record":"23,8"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Gold","Athlete": { "AName":"RUDOLPH, Wilma","IOC":"USA","Record":"24,0"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Silver","Athlete": { "AName":"HEINE, Jutta","IOC":"GER","Record":"24,4"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"HYMAN, Dorothy","IOC":"GBR","Record":"24,7"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Gold","Athlete": { "AName":"MCGUIRE, Edith","IOC":"USA","Record":"23,0"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Silver","Athlete": { "AName":"SZEWINSKA, Irena","IOC":"POL","Record":"23,1"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"BLACK, Marilyn","IOC":"AUS","Record":"23,1"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Gold","Athlete": { "AName":"SZEWINSKA, Irena","IOC":"POL","Record":"22,5"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"BOYLE, Raelene","IOC":"AUS","Record":"22,7"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"LAMY, Jennifer","IOC":"AUS","Record":"22,8"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Gold","Athlete": { "AName":"STECHER, Renate","IOC":"GDR","Record":"22,40"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Silver","Athlete": { "AName":"BOYLE, Raelene","IOC":"AUS","Record":"22,45"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"SZEWINSKA, Irena","IOC":"POL","Record":"22,74"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Gold","Athlete": { "AName":"WöCKEL, Bärbel","IOC":"GDR","Record":"22,37"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Silver","Athlete": { "AName":"RICHTER, Annegret","IOC":"FRG","Record":"22,39"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"STECHER, Renate","IOC":"GDR","Record":"22,47"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Gold","Athlete": { "AName":"WöCKEL, Bärbel","IOC":"GDR","Record":"22,03"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Silver","Athlete": { "AName":"BOCHINA, Natalya","IOC":"URS","Record":"22,19"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"OTTEY, Merlene","IOC":"JAM","Record":"22,20"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Gold","Athlete": { "AName":"BRISCO-HOOKS, Valerie","IOC":"USA","Record":"21,81"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Silver","Athlete": { "AName":"GRIFFITH-JOYNER, Florence","IOC":"USA","Record":"22,04"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"OTTEY, Merlene","IOC":"JAM","Record":"22,09"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Gold","Athlete": { "AName":"GRIFFITH-JOYNER, Florence","IOC":"USA","Record":"21,34"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Silver","Athlete": { "AName":"JACKSON, Grace","IOC":"JAM","Record":"21,72"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"DRECHSLER, Heike","IOC":"GDR","Record":"21,95"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Gold","Athlete": { "AName":"TORRENCE, Gwen","IOC":"USA","Record":"21,81"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Silver","Athlete": { "AName":"CUTHBERT, Julie","IOC":"JAM","Record":"22,02"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"OTTEY, Merlene","IOC":"JAM","Record":"22,09"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"PEREC, Marie-José","IOC":"FRA","Record":"22,12"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Silver","Athlete": { "AName":"OTTEY, Merlene","IOC":"JAM","Record":"22,24"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"ONYALI, Mary","IOC":"NGR","Record":"22,38"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"DAVIS-THOMPSON, Pauline","IOC":"BAH","Record":"22,27"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"JAYASINGHE, Susanthika","IOC":"SRI","Record":"22,28"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"MCDONALD, Beverly","IOC":"JAM","Record":"22,35"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Gold","Athlete": { "AName":"CAMPBELL-BROWN, Veronica","IOC":"JAM","Record":"22,05"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"FELIX, Allyson","IOC":"USA","Record":"22,18"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"FERGUSON, Debbie","IOC":"BAH","Record":"22,30"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Gold","Athlete": { "AName":"CAMPBELL-BROWN, Veronica","IOC":"JAM","Record":"21,74"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"FELIX, Allyson","IOC":"USA","Record":"21,93"}}
+{ "EName":"200m" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"STEWART, Kerron","IOC":"JAM","Record":"22,00"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1900","Medal":"Gold","Athlete": { "AName":"LANE, Frederick","IOC":"AUS","Record":"2:25,2"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1900","Medal":"Silver","Athlete": { "AName":"HALMAY, Zoltán","IOC":"HUN","Record":"2:31,4"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1900","Medal":"Bronze","Athlete": { "AName":"RUBERL, Karl","IOC":"AUT","Record":"2:32,0"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Gold","Athlete": { "AName":"DANIELS, Charles","IOC":"USA","Record":"2:44,2"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Silver","Athlete": { "AName":"GAILEY, Francis","IOC":"USA","Record":"2:46,0"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Bronze","Athlete": { "AName":"RAUSCH, Emil","IOC":"GER","Record":"2:56,0"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1968","Medal":"Gold","Athlete": { "AName":"WENDEN, Michael","IOC":"AUS","Record":"1:55,2"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1968","Medal":"Silver","Athlete": { "AName":"SCHOLLANDER, Donald","IOC":"USA","Record":"1:55,8"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"NELSON, John","IOC":"USA","Record":"1:58,1"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1972","Medal":"Gold","Athlete": { "AName":"SPITZ, Mark","IOC":"USA","Record":"1:52,78"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1972","Medal":"Silver","Athlete": { "AName":"GENTER, Steve","IOC":"USA","Record":"1:53,73"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"LAMPE, Werner","IOC":"FRG","Record":"1:53,99"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1976","Medal":"Gold","Athlete": { "AName":"FURNISS, Bruce","IOC":"USA","Record":"1:50,29"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1976","Medal":"Silver","Athlete": { "AName":"NABER, John","IOC":"USA","Record":"1:50,50"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"MONTGOMERY, Jim","IOC":"USA","Record":"1:50,58"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1980","Medal":"Gold","Athlete": { "AName":"KOPLYAKOV, Sergei","IOC":"URS","Record":"1:49,81"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1980","Medal":"Silver","Athlete": { "AName":"KRYLOV, Andrei","IOC":"URS","Record":"1:50,76"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"BREWER, Graeme","IOC":"AUS","Record":"1:51,60"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1984","Medal":"Gold","Athlete": { "AName":"GROSS, Michael","IOC":"FRG","Record":"1:47,44"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1984","Medal":"Silver","Athlete": { "AName":"HEATH, Michael","IOC":"USA","Record":"1:49,10"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"FAHRNER, Thomas","IOC":"FRG","Record":"1:49,69"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1988","Medal":"Gold","Athlete": { "AName":"ARMSTRONG, Duncan","IOC":"AUS","Record":"1:47,25"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1988","Medal":"Silver","Athlete": { "AName":"HOLMERTZ, Anders","IOC":"SWE","Record":"1:47,89"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"BIONDI, Matt","IOC":"USA","Record":"1:47,99"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1992","Medal":"Gold","Athlete": { "AName":"SADOVYI, Evgeni","IOC":"EUN","Record":"1:46,70"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1992","Medal":"Silver","Athlete": { "AName":"HOLMERTZ, Anders","IOC":"SWE","Record":"1:46,86"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"KASVIO, Antti","IOC":"FIN","Record":"1:47,63"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1996","Medal":"Gold","Athlete": { "AName":"LOADER, Danyon","IOC":"NZL","Record":"1:47,63"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1996","Medal":"Silver","Athlete": { "AName":"BORGES, Gustavo","IOC":"BRA","Record":"1:48,08"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"KOWALSKI, Daniel","IOC":"AUS","Record":"1:48,25"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1900","Medal":"Gold","Athlete": { "AName":"HOOGENBAND, Pieter van den","IOC":"HUN","Record":"2:31,4"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2000","Medal":"Silver","Athlete": { "AName":"THORPE, Ian","IOC":"AUS","Record":"1:45,83"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"ROSOLINO, Massimiliano","IOC":"ITA","Record":"1:46,65"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2004","Medal":"Gold","Athlete": { "AName":"THORPE, Ian","IOC":"AUS","Record":"1:44,71"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1900","Medal":"Silver","Athlete": { "AName":"HOOGENBAND, Pieter van den","IOC":"HUN","Record":"2:31,4"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"PHELPS, Michael","IOC":"USA","Record":"1:45,32"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2008","Medal":"Gold","Athlete": { "AName":"PHELPS, Michael","IOC":"USA","Record":"1:42,96"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2008","Medal":"Silver","Athlete": { "AName":"TAE-HWAN, Park","IOC":"KOR","Record":"1:44,85"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"VANDERKAAY, Peter","IOC":"USA","Record":"1:45,14"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Gold","Athlete": { "AName":"MEYER, Debbie","IOC":"USA","Record":"2:10,5"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"HENNE, Jan","IOC":"USA","Record":"2:11,0"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"BARKMAN, Jane","IOC":"USA","Record":"2:11,2"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Gold","Athlete": { "AName":"GOULD, Shane","IOC":"AUS","Record":"2:03,56"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Silver","Athlete": { "AName":"BABASHOFF, Shirley","IOC":"USA","Record":"2:04,33"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"ROTHHAMMER, Keena","IOC":"USA","Record":"2:04,92"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Gold","Athlete": { "AName":"ENDER, Kornelia","IOC":"GDR","Record":"1:59,26"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Silver","Athlete": { "AName":"BABASHOFF, Shirley","IOC":"USA","Record":"2:01,22"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"BRIGITHA, Enith","IOC":"NED","Record":"2:01,40"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Gold","Athlete": { "AName":"KRAUSE, Barbara","IOC":"GDR","Record":"1:58,33"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Silver","Athlete": { "AName":"DIERS, Ines","IOC":"GDR","Record":"1:59,64"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"SCHMIDT, Carmela","IOC":"GDR","Record":"2:01,44"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Gold","Athlete": { "AName":"WAYTE, Mary","IOC":"USA","Record":"1:59,23"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Silver","Athlete": { "AName":"WOODHEAD, Cynthia","IOC":"USA","Record":"1:59,50"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"VERSTAPPEN, Annemarie","IOC":"NED","Record":"1:59,69"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Gold","Athlete": { "AName":"FRIEDRICH, Heike","IOC":"GDR","Record":"1:57,65"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Silver","Athlete": { "AName":"POLL, Silvia","IOC":"CRC","Record":"1:58,67"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"STELLMACH, Manuela","IOC":"GDR","Record":"1:59,01"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Gold","Athlete": { "AName":"HAISLETT, Nicole","IOC":"USA","Record":"1:57,90"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"ALMSICK, Franziska van","IOC":"USA","Record":"2:10,5"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"KIELGASS, Kerstin","IOC":"GER","Record":"1:59,67"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"POLL, Claudia","IOC":"CRC","Record":"1:58,16"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"ALMSICK, Franziska van","IOC":"USA","Record":"2:10,5"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"HASE, Dagmar","IOC":"GER","Record":"1:59,56"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"O'NEILL, Susan","IOC":"AUS","Record":"1:58,24"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"MORAVCOVA, Martina","IOC":"SVK","Record":"1:58,32"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"POLL, Claudia","IOC":"CRC","Record":"1:58,81"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Gold","Athlete": { "AName":"POTEC, Camelia","IOC":"ROM","Record":"1:58,03"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"PELLEGRINI, Federica","IOC":"ITA","Record":"1:58,22"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"FIGUES, Solenne","IOC":"FRA","Record":"1:58,45"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Gold","Athlete": { "AName":"PELLEGRINI, Federica","IOC":"ITA","Record":"1:54,82"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"ISAKOVIC, Sara","IOC":"SLO","Record":"1:54,97"}}
+{ "EName":"200m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"JIAYING, Pang","IOC":"CHN","Record":"1:55,05"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Gold","Athlete": { "AName":"DANIELS, Charles","IOC":"USA","Record":"6:16,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Silver","Athlete": { "AName":"GAILEY, Francis","IOC":"USA","Record":"6:22,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Bronze","Athlete": { "AName":"WAHLE, Otto","IOC":"AUT","Record":"6:39,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1908","Medal":"Gold","Athlete": { "AName":"TAYLOR, Henry","IOC":"GBR","Record":"5:36,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1908","Medal":"Silver","Athlete": { "AName":"BEAUREPAIRE, Frank","IOC":"ANZ","Record":"5:44,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1908","Medal":"Bronze","Athlete": { "AName":"SCHEFF, Otto","IOC":"AUT","Record":"5:46,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1912","Medal":"Gold","Athlete": { "AName":"HODGSON, George","IOC":"CAN","Record":"5:24,4"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Silver","Athlete": { "AName":"HATFIELD, John Gatenby","IOC":"USA","Record":"6:16,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1904","Medal":"Bronze","Athlete": { "AName":"HARDWICK, Harold H.","IOC":"USA","Record":"6:16,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1920","Medal":"Gold","Athlete": { "AName":"ROSS, Norman","IOC":"USA","Record":"5:26,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1920","Medal":"Silver","Athlete": { "AName":"LANGER, Ludy","IOC":"USA","Record":"5:29,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1920","Medal":"Bronze","Athlete": { "AName":"VERNOT, George","IOC":"CAN","Record":"5:29,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1924","Medal":"Gold","Athlete": { "AName":"WEISSMULLER, Johnny","IOC":"USA","Record":"5:04,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1924","Medal":"Silver","Athlete": { "AName":"BORG, Arne","IOC":"SWE","Record":"5:05,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1924","Medal":"Bronze","Athlete": { "AName":"CHARLTON, Boy","IOC":"AUS","Record":"5:06,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1928","Medal":"Gold","Athlete": { "AName":"ZORRILLA, Alberto","IOC":"ARG","Record":"5:01,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1928","Medal":"Silver","Athlete": { "AName":"CHARLTON, Boy","IOC":"AUS","Record":"5:03,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1928","Medal":"Bronze","Athlete": { "AName":"BORG, Arne","IOC":"SWE","Record":"5:04,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1932","Medal":"Gold","Athlete": { "AName":"CRABBE, Buster","IOC":"USA","Record":"4:48,4"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1932","Medal":"Silver","Athlete": { "AName":"TARIS, Jean","IOC":"FRA","Record":"4:48,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1932","Medal":"Bronze","Athlete": { "AName":"OYOKOTA, Tsutomu","IOC":"JPN","Record":"4:52,3"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1936","Medal":"Gold","Athlete": { "AName":"MEDICA, Jack","IOC":"USA","Record":"4:44,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1936","Medal":"Silver","Athlete": { "AName":"UTO, Shumpei","IOC":"JPN","Record":"4:45,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1936","Medal":"Bronze","Athlete": { "AName":"MAKINO, Shozo","IOC":"JPN","Record":"4:48,1"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1948","Medal":"Gold","Athlete": { "AName":"SMITH, William","IOC":"USA","Record":"4:41,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1948","Medal":"Silver","Athlete": { "AName":"MCLANE, James","IOC":"USA","Record":"4:43,4"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"MARSHALL, John","IOC":"AUS","Record":"4:47,7"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1952","Medal":"Gold","Athlete": { "AName":"BOITEUX, Jean","IOC":"FRA","Record":"4:30,7"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1952","Medal":"Silver","Athlete": { "AName":"KONNO, Ford","IOC":"USA","Record":"4:31,3"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"+O25STRAND, Per-Olof","IOC":"SWE","Record":"4:35,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1956","Medal":"Gold","Athlete": { "AName":"ROSE, Murray","IOC":"AUS","Record":"4:27,3"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1956","Medal":"Silver","Athlete": { "AName":"YAMANAKA, Tsuyoshi","IOC":"JPN","Record":"4:30,4"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"BREEN, George","IOC":"USA","Record":"4:32,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1960","Medal":"Gold","Athlete": { "AName":"ROSE, Murray","IOC":"AUS","Record":"4:18,3"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1960","Medal":"Silver","Athlete": { "AName":"YAMANAKA, Tsuyoshi","IOC":"JPN","Record":"4:21,4"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"KONRADS, John","IOC":"AUS","Record":"4:21,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1964","Medal":"Gold","Athlete": { "AName":"SCHOLLANDER, Donald","IOC":"USA","Record":"4:12,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1964","Medal":"Silver","Athlete": { "AName":"WIEGAND, Frank","IOC":"GER","Record":"4:14,9"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"WOOD, Allan","IOC":"AUS","Record":"4:15,1"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1968","Medal":"Gold","Athlete": { "AName":"BURTON, Michael","IOC":"USA","Record":"4:09,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1968","Medal":"Silver","Athlete": { "AName":"HUTTON, Ralph","IOC":"CAN","Record":"4:11,7"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"MOSCONI, Alain","IOC":"FRA","Record":"4:13,3"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1972","Medal":"Gold","Athlete": { "AName":"COOPER, Bradford","IOC":"AUS","Record":"4:00,27"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1972","Medal":"Silver","Athlete": { "AName":"GENTER, Steve","IOC":"USA","Record":"4:01,94"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"MCBREEN, Tom","IOC":"USA","Record":"4:02,64"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1976","Medal":"Gold","Athlete": { "AName":"GOODELL, Brian","IOC":"USA","Record":"3:51,93"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1976","Medal":"Silver","Athlete": { "AName":"SHAW, Tim","IOC":"USA","Record":"3:52,54"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"RASKATOV, Vladimir","IOC":"URS","Record":"3:55,76"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1980","Medal":"Gold","Athlete": { "AName":"SALNIKOV, Vladimir","IOC":"URS","Record":"3:51,31"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1980","Medal":"Silver","Athlete": { "AName":"KRYLOV, Andrei","IOC":"URS","Record":"3:53,24"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"STUKOLKIN, Ivar","IOC":"URS","Record":"3:53,95"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1984","Medal":"Gold","Athlete": { "AName":"DICARLO, George","IOC":"USA","Record":"3:51,23"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1984","Medal":"Silver","Athlete": { "AName":"MYKKANEN, John","IOC":"USA","Record":"3:51,49"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"LEMBERG, Justin","IOC":"AUS","Record":"3:51,79"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1988","Medal":"Gold","Athlete": { "AName":"DASSLER, Uwe","IOC":"GDR","Record":"3:46,95"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1988","Medal":"Silver","Athlete": { "AName":"ARMSTRONG, Duncan","IOC":"AUS","Record":"3:47,15"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"WOJDAT, Artur","IOC":"POL","Record":"3:47,34"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1992","Medal":"Gold","Athlete": { "AName":"SADOVYI, Evgeni","IOC":"EUN","Record":"3:45,00"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1992","Medal":"Silver","Athlete": { "AName":"PERKINS, Kieren","IOC":"AUS","Record":"3:45,16"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"HOLMERTZ, Anders","IOC":"SWE","Record":"3:46,77"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1996","Medal":"Gold","Athlete": { "AName":"LOADER, Danyon","IOC":"NZL","Record":"3:47,97"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1996","Medal":"Silver","Athlete": { "AName":"PALMER, Paul","IOC":"GBR","Record":"3:49,00"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"KOWALSKI, Daniel","IOC":"AUS","Record":"3:49,39"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2000","Medal":"Gold","Athlete": { "AName":"THORPE, Ian","IOC":"AUS","Record":"3:40,59"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2000","Medal":"Silver","Athlete": { "AName":"ROSOLINO, Massimiliano","IOC":"ITA","Record":"3:43,40"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"KELLER, Klete","IOC":"USA","Record":"3:47,00"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2004","Medal":"Gold","Athlete": { "AName":"THORPE, Ian","IOC":"AUS","Record":"3:43,10"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2004","Medal":"Silver","Athlete": { "AName":"HACKETT, Grant","IOC":"AUS","Record":"3:43,36"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"KELLER, Klete","IOC":"USA","Record":"3:44,11"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2008","Medal":"Gold","Athlete": { "AName":"TAE-HWAN, Park","IOC":"KOR","Record":"3:41,86"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2008","Medal":"Silver","Athlete": { "AName":"LIN, Zhang","IOC":"CHN","Record":"3:42,44"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Men","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"JENSEN, Larsen","IOC":"USA","Record":"3:42,78"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1924","Medal":"Gold","Athlete": { "AName":"NORELIUS, Martha","IOC":"USA","Record":"6:02,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1924","Medal":"Silver","Athlete": { "AName":"WAINWRIGHT, Helen","IOC":"USA","Record":"6:03,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1924","Medal":"Bronze","Athlete": { "AName":"EDERLE, Gertrude","IOC":"USA","Record":"6:04,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1928","Medal":"Gold","Athlete": { "AName":"NORELIUS, Martha","IOC":"USA","Record":"5:42,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1928","Medal":"Silver","Athlete": { "AName":"BRAUN, Maria","IOC":"NED","Record":"5:57,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1928","Medal":"Bronze","Athlete": { "AName":"MCKIM, Josephine","IOC":"USA","Record":"6:00,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1932","Medal":"Gold","Athlete": { "AName":"MADISON, Helene","IOC":"USA","Record":"5:28,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1932","Medal":"Silver","Athlete": { "AName":"KIGHT, Lenore","IOC":"USA","Record":"5:28,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1932","Medal":"Bronze","Athlete": { "AName":"MAAKAL, Jenny","IOC":"SAF","Record":"5:47,3"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1936","Medal":"Gold","Athlete": { "AName":"MASTENBROEK, Rie","IOC":"NED","Record":"5:26,4"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1936","Medal":"Silver","Athlete": { "AName":"HVEGER, Ragnhild","IOC":"DEN","Record":"5:27,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1936","Medal":"Bronze","Athlete": { "AName":"KIGHT, Lenore","IOC":"USA","Record":"5:29,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1948","Medal":"Gold","Athlete": { "AName":"CURTIS, Ann","IOC":"USA","Record":"5:17,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1948","Medal":"Silver","Athlete": { "AName":"HARUP, Karen","IOC":"DEN","Record":"5:21,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"GIBSON, Catherine","IOC":"GBR","Record":"5:22,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1952","Medal":"Gold","Athlete": { "AName":"GYENGE, Valéria","IOC":"HUN","Record":"5:12,1"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1952","Medal":"Silver","Athlete": { "AName":"NOVáK, Éva","IOC":"HUN","Record":"5:13,7"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"KAWAMOTO, Evelyn","IOC":"USA","Record":"5:14,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1956","Medal":"Gold","Athlete": { "AName":"CRAPP, Lorraine","IOC":"AUS","Record":"4:54,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1956","Medal":"Silver","Athlete": { "AName":"FRASER, Dawn","IOC":"AUS","Record":"5:02,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"RUUSKA, Sylvia","IOC":"USA","Record":"5:07,1"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1924","Medal":"Gold","Athlete": { "AName":"SALTZA, Susan von","IOC":"USA","Record":"6:02,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1960","Medal":"Silver","Athlete": { "AName":"CEDERQVIST, Jane","IOC":"SWE","Record":"4:53,9"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"LAGERBERG, Tineke","IOC":"NED","Record":"4:56,9"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1964","Medal":"Gold","Athlete": { "AName":"DUENKEL, Virginia","IOC":"USA","Record":"4:43,3"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1964","Medal":"Silver","Athlete": { "AName":"RAMENOFSKY, Marilyn","IOC":"USA","Record":"4:44,6"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1924","Medal":"Bronze","Athlete": { "AName":"STICKLES, Terri Lee","IOC":"USA","Record":"6:02,2"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Gold","Athlete": { "AName":"MEYER, Debbie","IOC":"USA","Record":"4:31,8"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"GUSTAVSON, Linda","IOC":"USA","Record":"4:35,5"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"MORAS, Karen","IOC":"AUS","Record":"4:37,0"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Gold","Athlete": { "AName":"GOULD, Shane","IOC":"AUS","Record":"4:19,04"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Silver","Athlete": { "AName":"CALLIGARIS, Novella","IOC":"ITA","Record":"4:22,44"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"WEGNER, Gudrun","IOC":"GDR","Record":"4:23,11"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Gold","Athlete": { "AName":"THüMER, Petra","IOC":"GDR","Record":"4:09,89"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Silver","Athlete": { "AName":"BABASHOFF, Shirley","IOC":"USA","Record":"4:10,46"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"SMITH, Shannon","IOC":"CAN","Record":"4:14,60"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Gold","Athlete": { "AName":"DIERS, Ines","IOC":"GDR","Record":"4:08,76"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Silver","Athlete": { "AName":"SCHNEIDER, Petra","IOC":"GDR","Record":"4:09,16"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"SCHMIDT, Carmela","IOC":"GDR","Record":"4:10,86"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Gold","Athlete": { "AName":"COHEN, Tiffany","IOC":"USA","Record":"4:07,10"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Silver","Athlete": { "AName":"HARDCASTLE, Sarah","IOC":"GBR","Record":"4:10,27"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"CROFT, June","IOC":"GBR","Record":"4:11,49"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Gold","Athlete": { "AName":"EVANS, Janet","IOC":"USA","Record":"4:03,85"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Silver","Athlete": { "AName":"FRIEDRICH, Heike","IOC":"GDR","Record":"4:05,94"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"MöHRING, Anke","IOC":"GDR","Record":"4:06,62"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Gold","Athlete": { "AName":"HASE, Dagmar","IOC":"GER","Record":"4:07,18"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Silver","Athlete": { "AName":"EVANS, Janet","IOC":"USA","Record":"4:07,37"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"LEWIS, Hayley","IOC":"AUS","Record":"4:11,22"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"SMITH, Michelle","IOC":"IRL","Record":"4:07,25"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Silver","Athlete": { "AName":"HASE, Dagmar","IOC":"GER","Record":"4:08,30"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"VLIEGHUIS, Kirsten","IOC":"NED","Record":"4:08,70"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"BENNETT, Brooke","IOC":"USA","Record":"4:05,80"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"MUNZ, Diana","IOC":"USA","Record":"4:07,07"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"POLL, Claudia","IOC":"CRC","Record":"4:07,83"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Gold","Athlete": { "AName":"MANAUDOU, Laure","IOC":"FRA","Record":"4:05,34"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"JEDRZEJCZAK, Otylia","IOC":"POL","Record":"4:05,84"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"SANDENO, Kaitlin","IOC":"USA","Record":"4:06,19"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Gold","Athlete": { "AName":"ADLINGTON, Rebecca","IOC":"GBR","Record":"4:03,22"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"HOFF, Katie","IOC":"USA","Record":"4:03,29"}}
+{ "EName":"400m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"JACKSON, Joanne","IOC":"GBR","Record":"4:03,52"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Gold","Athlete": { "AName":"MEYER, Debbie","IOC":"USA","Record":"9:24,0"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"KRUSE, Pamela","IOC":"USA","Record":"9:35,7"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"RAMIREZ, Maria Teresa","IOC":"USA","Record":"9:24,0"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Gold","Athlete": { "AName":"ROTHHAMMER, Keena","IOC":"USA","Record":"8:53,68"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Silver","Athlete": { "AName":"GOULD, Shane","IOC":"AUS","Record":"8:56,39"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"CALLIGARIS, Novella","IOC":"ITA","Record":"8:57,46"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Gold","Athlete": { "AName":"THüMER, Petra","IOC":"GDR","Record":"8:37,14"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Silver","Athlete": { "AName":"BABASHOFF, Shirley","IOC":"USA","Record":"8:37,59"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"WEINBERG, Wendy","IOC":"USA","Record":"8:42,60"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Gold","Athlete": { "AName":"FORD, Michelle","IOC":"AUS","Record":"8:28,90"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Silver","Athlete": { "AName":"DIERS, Ines","IOC":"GDR","Record":"8:32,55"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"DäHNE, Heike","IOC":"GDR","Record":"8:33,48"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Gold","Athlete": { "AName":"COHEN, Tiffany","IOC":"USA","Record":"8:24,95"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Silver","Athlete": { "AName":"RICHARDSON, Michele","IOC":"USA","Record":"8:30,73"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"HARDCASTLE, Sarah","IOC":"GBR","Record":"8:32,60"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Gold","Athlete": { "AName":"EVANS, Janet","IOC":"USA","Record":"8:20,20"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Silver","Athlete": { "AName":"STRAUSS, Astrid","IOC":"GDR","Record":"8:22,09"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"MCDONALD, Julie","IOC":"AUS","Record":"8:22,93"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Gold","Athlete": { "AName":"EVANS, Janet","IOC":"USA","Record":"8:25,52"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Silver","Athlete": { "AName":"LEWIS, Hayley","IOC":"AUS","Record":"8:30,34"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"HENKE, Jana","IOC":"GER","Record":"8:30,99"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"BENNETT, Brooke","IOC":"USA","Record":"8:27,89"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Silver","Athlete": { "AName":"HASE, Dagmar","IOC":"GER","Record":"8:29,91"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"VLIEGHUIS, Kirsten","IOC":"NED","Record":"8:30,84"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"BENNETT, Brooke","IOC":"USA","Record":"8:19,67"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"KLOCHKOVA, Yana","IOC":"UKR","Record":"8:22,66"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"SANDENO, Kaitlin","IOC":"USA","Record":"8:24,29"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Gold","Athlete": { "AName":"SHIBATA, Ai","IOC":"JPN","Record":"8:24,54"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"MANAUDOU, Laure","IOC":"FRA","Record":"8:24,96"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"MUNZ, Diana","IOC":"USA","Record":"8:26,61"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Gold","Athlete": { "AName":"ADLINGTON, Rebecca","IOC":"GBR","Record":"8:14,10"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"FILIPPI, Alessia","IOC":"ITA","Record":"8:20,23"}}
+{ "EName":"800m freestyle" ,"DName":"Swimming","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"FRIIS, Lotte","IOC":"DEN","Record":"8:23,03"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"GARRETT, Robert","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"PARASKEVOPOULOS, Panagiotis","IOC":"GRE","Record":"28,95"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"VERSIS, Sotirios","IOC":"GRE","Record":"28,78"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1900","Medal":"Gold","Athlete": { "AName":"BAUER, Rudolf","IOC":"HUN","Record":"36,04"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1900","Medal":"Silver","Athlete": { "AName":"JANDA-SUK, Frantisek","IOC":"BOH","Record":"35,25"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1900","Medal":"Bronze","Athlete": { "AName":"SHELDON, Richard","IOC":"USA","Record":"34,60"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Gold","Athlete": { "AName":"SHERIDAN, Martin","IOC":"USA","Record":"39,28"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Silver","Athlete": { "AName":"ROSE, Ralph","IOC":"USA","Record":"39,28"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Bronze","Athlete": { "AName":"GEORGANTAS, Nicolas","IOC":"GRE","Record":"37,68"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1908","Medal":"Gold","Athlete": { "AName":"SHERIDAN, Martin","IOC":"USA","Record":"40,890"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"GIFFIN, Merritt H.","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1908","Medal":"Bronze","Athlete": { "AName":"HORR, Marquis","IOC":"USA","Record":"39,445"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Gold","Athlete": { "AName":"TAIPALE, Armas","IOC":"FIN","Record":"45,21"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Silver","Athlete": { "AName":"BYRD, Richard","IOC":"USA","Record":"42,32"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Bronze","Athlete": { "AName":"DUNCAN, James","IOC":"USA","Record":"42,28"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Gold","Athlete": { "AName":"NIKLANDER, Elmer","IOC":"FIN","Record":"44,685"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Silver","Athlete": { "AName":"TAIPALE, Armas","IOC":"FIN","Record":"44,19"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Bronze","Athlete": { "AName":"POPE, Augustus","IOC":"USA","Record":"42,13"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Gold","Athlete": { "AName":"HOUSER, Clarence","IOC":"USA","Record":"46,155"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"NIITTYMAA, Vilho Aleksandr","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Bronze","Athlete": { "AName":"LIEB, Thomas","IOC":"USA","Record":"44,83"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Gold","Athlete": { "AName":"HOUSER, Clarence","IOC":"USA","Record":"47,32"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Silver","Athlete": { "AName":"KIVI, Antero","IOC":"FIN","Record":"47,23"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Bronze","Athlete": { "AName":"CORSON, James","IOC":"USA","Record":"47,10"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Gold","Athlete": { "AName":"ANDERSON, John","IOC":"USA","Record":"49,49"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"LABORDE, Henri Jean","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Bronze","Athlete": { "AName":"WINTER, Paul","IOC":"FRA","Record":"47,85"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Gold","Athlete": { "AName":"CARPENTER, Kenneth","IOC":"USA","Record":"50,48"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Silver","Athlete": { "AName":"DUNN, Gordon","IOC":"USA","Record":"49,36"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Bronze","Athlete": { "AName":"OBERWEGER, Giorgio","IOC":"ITA","Record":"49,23"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Gold","Athlete": { "AName":"CONSOLINI, Adolfo","IOC":"ITA","Record":"52,78"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Silver","Athlete": { "AName":"TOSI, Giuseppe","IOC":"ITA","Record":"51,78"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"GORDIEN, Fortune","IOC":"USA","Record":"50,77"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Gold","Athlete": { "AName":"INESS, Sim","IOC":"USA","Record":"55,03"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Silver","Athlete": { "AName":"CONSOLINI, Adolfo","IOC":"ITA","Record":"53,78"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"DILLION, James","IOC":"USA","Record":"53,28"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"JR., Alfred Oerter","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Silver","Athlete": { "AName":"GORDIEN, Fortune","IOC":"USA","Record":"54,81"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"KOCH, Desmond","IOC":"USA","Record":"54,40"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"JR., Alfred Oerter","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Silver","Athlete": { "AName":"BABKA, Richard","IOC":"USA","Record":"58,02"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"COCHRAN, Richard","IOC":"USA","Record":"57,16"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"JR., Alfred Oerter","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Silver","Athlete": { "AName":"DANEK, Ludvik","IOC":"TCH","Record":"60,52"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"WEILL, David","IOC":"USA","Record":"59,49"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"JR., Alfred Oerter","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Silver","Athlete": { "AName":"MILDE, Lothar","IOC":"GDR","Record":"63,08"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"DANEK, Ludvik","IOC":"TCH","Record":"62,92"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Gold","Athlete": { "AName":"DANEK, Ludvik","IOC":"TCH","Record":"64,40"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Silver","Athlete": { "AName":"SILVESTER, Jay","IOC":"USA","Record":"63,50"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"BRUCH, Rickard","IOC":"SWE","Record":"63,40"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Gold","Athlete": { "AName":"WILKINS, Mac","IOC":"USA","Record":"67,50"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Silver","Athlete": { "AName":"SCHMIDT, Wolfgang","IOC":"GDR","Record":"66,22"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"POWELL, John","IOC":"USA","Record":"65,70"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Gold","Athlete": { "AName":"RASHCHUPKIN, Viktor","IOC":"URS","Record":"66,64"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Silver","Athlete": { "AName":"BUGáR, Imrich","IOC":"TCH","Record":"66,38"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"FOURNIER, Luis Delis","IOC":"USA","Record":"29,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Gold","Athlete": { "AName":"DANNEBERG, Rolf","IOC":"FRG","Record":"66,60"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Silver","Athlete": { "AName":"WILKINS, Mac","IOC":"USA","Record":"66,30"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"POWELL, John","IOC":"USA","Record":"65,46"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Gold","Athlete": { "AName":"SCHULT, Jürgen","IOC":"GDR","Record":"68,82"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Silver","Athlete": { "AName":"UBARTAS%01, Romas","IOC":"URS","Record":"67,48"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"DANNEBERG, Rolf","IOC":"FRG","Record":"67,38"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Gold","Athlete": { "AName":"UBARTAS, Romas","IOC":"LIT","Record":"65,12"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Silver","Athlete": { "AName":"SCHULT, Jürgen","IOC":"GER","Record":"64,94"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"MOYA, Roberto","IOC":"CUB","Record":"64,12"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Gold","Athlete": { "AName":"RIEDEL, Lars","IOC":"GER","Record":"69,40"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Silver","Athlete": { "AName":"DUBROVSHCHIK, Vladimir","IOC":"BLR","Record":"66,60"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"KAPTYUKH, Vasiliy","IOC":"BLR","Record":"65,80"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Gold","Athlete": { "AName":"ALECHNA, Virgilius","IOC":"LIT","Record":"69,30"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Silver","Athlete": { "AName":"RIEDEL, Lars","IOC":"GER","Record":"68,50"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"KRUGER, Frantz","IOC":"SAF","Record":"68,15"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Gold","Athlete": { "AName":"ALECHNA, Virgilius","IOC":"LIT","Record":"69,89"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Silver","Athlete": { "AName":"KOVAGO, Zoltan","IOC":"HUN","Record":"67,04"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"TAMMERT, Alexander","IOC":"EST","Record":"66,66"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Gold","Athlete": { "AName":"KANTER, Gerd","IOC":"EST","Record":"68,82"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Silver","Athlete": { "AName":"MALACHOWSKI, Pjotr","IOC":"POL","Record":"67,82"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"ALECHNA, Virgilius","IOC":"LIT","Record":"67,79"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1928","Medal":"Gold","Athlete": { "AName":"KONOPACKA, Halina","IOC":"POL","Record":"39,62"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1928","Medal":"Silver","Athlete": { "AName":"COPELAND, Lillian","IOC":"USA","Record":"37,08"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1928","Medal":"Bronze","Athlete": { "AName":"SVEDBERG, Ruth","IOC":"SWE","Record":"35,92"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1932","Medal":"Gold","Athlete": { "AName":"COPELAND, Lillian","IOC":"USA","Record":"40,58"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1932","Medal":"Silver","Athlete": { "AName":"OSBORN, Ruth","IOC":"USA","Record":"40,12"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1932","Medal":"Bronze","Athlete": { "AName":"WAJSóWNA, Jadwiga","IOC":"POL","Record":"38,75"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1936","Medal":"Gold","Athlete": { "AName":"MAUERMAYER, Gisela","IOC":"GER","Record":"47,63"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1936","Medal":"Silver","Athlete": { "AName":"WAJSóWNA, Jadwiga","IOC":"POL","Record":"46,22"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1936","Medal":"Bronze","Athlete": { "AName":"MOLLENHAUER, Paula","IOC":"GER","Record":"39,80"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Gold","Athlete": { "AName":"OSTERMEYER, Micheline","IOC":"FRA","Record":"41,92"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1928","Medal":"Silver","Athlete": { "AName":"GENTILE, Edera Cordiale","IOC":"POL","Record":"39,62"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"MAZEAS, Jacqueline","IOC":"FRA","Record":"40,47"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Gold","Athlete": { "AName":"ROMASHKOVA, Nina","IOC":"URS","Record":"51,42"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Silver","Athlete": { "AName":"BAGRYANTSEVA, Elizaveta","IOC":"URS","Record":"47,08"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"DUMBADZE, Nina","IOC":"URS","Record":"46,29"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Gold","Athlete": { "AName":"FIKOTOVá, Olga","IOC":"TCH","Record":"53,69"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Silver","Athlete": { "AName":"BEGLYAKOVA, Irina","IOC":"URS","Record":"52,54"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"ROMASHKOVA, Nina","IOC":"URS","Record":"52,02"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Gold","Athlete": { "AName":"ROMASHKOVA, Nina","IOC":"URS","Record":"55,10"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Silver","Athlete": { "AName":"PRESS, Tamara","IOC":"URS","Record":"52,59"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"MANOLIU, Lia","IOC":"ROM","Record":"52,36"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Gold","Athlete": { "AName":"PRESS, Tamara","IOC":"URS","Record":"57,27"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Silver","Athlete": { "AName":"LOTZ, Ingrid","IOC":"GER","Record":"57,21"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"MANOLIU, Lia","IOC":"ROM","Record":"56,97"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Gold","Athlete": { "AName":"MANOLIU, Lia","IOC":"ROM","Record":"58,28"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"WESTERMANN, Liesel","IOC":"FRG","Record":"57,76"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"KLEIBER, Jolan","IOC":"HUN","Record":"54,90"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Gold","Athlete": { "AName":"MELNIK, Faina","IOC":"URS","Record":"66,62"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Silver","Athlete": { "AName":"MENIS, Argentina","IOC":"ROM","Record":"65,06"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"STOEWA, Wassilka","IOC":"BUL","Record":"64,34"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Gold","Athlete": { "AName":"JAHL, Evelin","IOC":"GDR","Record":"69,00"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Silver","Athlete": { "AName":"PETKOWA, Maria","IOC":"BUL","Record":"67,30"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"HINZMANN, Gabriele","IOC":"GDR","Record":"66,84"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Gold","Athlete": { "AName":"JAHL, Evelin","IOC":"GDR","Record":"69,96"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Silver","Athlete": { "AName":"PETKOWA, Maria","IOC":"BUL","Record":"67,90"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"LESOVAIA, Tatyana","IOC":"URS","Record":"67,40"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Gold","Athlete": { "AName":"STALMAN, Ria","IOC":"NED","Record":"65,36"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Silver","Athlete": { "AName":"DENIZ, Leslie","IOC":"USA","Record":"64,86"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"CRACIUNESCU, Florenta","IOC":"ROM","Record":"63,64"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Gold","Athlete": { "AName":"HELLMANN, Martina","IOC":"GDR","Record":"72,30"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Silver","Athlete": { "AName":"GANSKY, Diana","IOC":"GDR","Record":"71,88"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"CHRISTOVA, Zvetanka","IOC":"BUL","Record":"69,74"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1928","Medal":"Gold","Athlete": { "AName":"GARCIA, Maritza Marten","IOC":"POL","Record":"39,62"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Silver","Athlete": { "AName":"CHRISTOVA, Zvetanka","IOC":"BUL","Record":"67,78"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"COSTIAN, Daniela","IOC":"AUS","Record":"66,24"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"WYLUDDA, Ilke","IOC":"GER","Record":"69,66"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Silver","Athlete": { "AName":"SADOVA, Natalya","IOC":"RUS","Record":"66,80"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"ZVEREVA, Ellina","IOC":"BLR","Record":"65,64"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"ZVEREVA, Ellina","IOC":"BLR","Record":"68,40"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"KELESIDOU, Anastasia","IOC":"GRE","Record":"65,71"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"YATCHENKO, Irina","IOC":"BLR","Record":"65,20"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Gold","Athlete": { "AName":"SADOVA, Natalya","IOC":"RUS","Record":"67,02"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"KELESIDOU, Anastasia","IOC":"GRE","Record":"66,68"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"YATCHENKO, Irina","IOC":"BLR","Record":"66,17"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"1928","Medal":"Gold","Athlete": { "AName":"TRAFTON, Stephanie Brown","IOC":"POL","Record":"39,62"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"BARRIOS, Yarelis","IOC":"CUB","Record":"63,64"}}
+{ "EName":"discus throw" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"ANTONOVA, Olena","IOC":"UKR","Record":"62,59"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"CLARK, Ellery","IOC":"USA","Record":"6,35"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"GARRETT, Robert","IOC":"USA","Record":"6,18"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"CONNOLLY, James","IOC":"USA","Record":"6,11"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1900","Medal":"Gold","Athlete": { "AName":"KRAENZLEIN, Alvin","IOC":"USA","Record":"7,185"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1900","Medal":"Silver","Athlete": { "AName":"PRINSTEIN, Meyer","IOC":"USA","Record":"7,175"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"LEAHY, Patrick Joseph","IOC":"USA","Record":"6,35"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Gold","Athlete": { "AName":"PRINSTEIN, Meyer","IOC":"USA","Record":"7,34"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Silver","Athlete": { "AName":"FRANK, Daniel","IOC":"USA","Record":"6,89"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Bronze","Athlete": { "AName":"STANGLAND, Robert","IOC":"USA","Record":"6,88"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1908","Medal":"Gold","Athlete": { "AName":"IRONS, Francis","IOC":"USA","Record":"7,480"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1908","Medal":"Silver","Athlete": { "AName":"KELLY, Daniel","IOC":"USA","Record":"7,090"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1908","Medal":"Bronze","Athlete": { "AName":"BRICKER, Calvin","IOC":"CAN","Record":"7,085"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Gold","Athlete": { "AName":"GUTTERSON, Albert","IOC":"USA","Record":"7,60"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Silver","Athlete": { "AName":"BRICKER, Calvin","IOC":"CAN","Record":"7,21"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Bronze","Athlete": { "AName":"ABERG, Georg","IOC":"SWE","Record":"7,18"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Gold","Athlete": { "AName":"PETERSSON, William","IOC":"SWE","Record":"7,15"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Silver","Athlete": { "AName":"JOHNSON, Carl","IOC":"USA","Record":"7,095"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Bronze","Athlete": { "AName":"ABRAHAMSSON, Erik","IOC":"SWE","Record":"7,08"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"HUBBARD, William DeHart","IOC":"USA","Record":"6,35"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Silver","Athlete": { "AName":"GOURDIN, Edward","IOC":"USA","Record":"7,275"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Bronze","Athlete": { "AName":"HANSEN, Sverre","IOC":"NOR","Record":"7,26"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Gold","Athlete": { "AName":"HAMM, Edward","IOC":"USA","Record":"7,73"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Silver","Athlete": { "AName":"CATOR, Silvio","IOC":"HAI","Record":"7,58"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Bronze","Athlete": { "AName":"BATES, Alfred","IOC":"USA","Record":"7,40"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Gold","Athlete": { "AName":"GORDON, Edward","IOC":"USA","Record":"7,64"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"REDD, Charles Lambert","IOC":"USA","Record":"6,35"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Bronze","Athlete": { "AName":"NAMBU, Chuhei","IOC":"JPN","Record":"7,45"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Gold","Athlete": { "AName":"OWENS, Jesse","IOC":"USA","Record":"8,06"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Silver","Athlete": { "AName":"LONG, Luz","IOC":"GER","Record":"7,87"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Bronze","Athlete": { "AName":"TAJIMA, Naoto","IOC":"JPN","Record":"7,74"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Gold","Athlete": { "AName":"STEELE, Willie","IOC":"USA","Record":"7,825"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Silver","Athlete": { "AName":"BRUCE, Thomas","IOC":"AUS","Record":"7,555"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"DOUGLAS, Herbert","IOC":"USA","Record":"7,545"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Gold","Athlete": { "AName":"BIFFLE, Jerome","IOC":"USA","Record":"7,57"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Silver","Athlete": { "AName":"GOURDINE, Meredith","IOC":"USA","Record":"7,53"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"FöLDESSY, +O25dön","IOC":"HUN","Record":"7,30"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Gold","Athlete": { "AName":"BELL, Gregory","IOC":"USA","Record":"7,83"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Silver","Athlete": { "AName":"BENNETT, John","IOC":"USA","Record":"7,68"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"VALKAMA, Jorma","IOC":"FIN","Record":"7,48"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Gold","Athlete": { "AName":"BOSTON, Ralph","IOC":"USA","Record":"8,12"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Silver","Athlete": { "AName":"ROBERSON, Irvin","IOC":"USA","Record":"8,11"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"TER-OVANESYAN, Igor","IOC":"URS","Record":"8,04"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Gold","Athlete": { "AName":"DAVIES, Lynn","IOC":"GBR","Record":"8,07"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Silver","Athlete": { "AName":"BOSTON, Ralph","IOC":"USA","Record":"8,03"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"TER-OVANESYAN, Igor","IOC":"URS","Record":"7,99"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Gold","Athlete": { "AName":"BEAMON, Bob","IOC":"USA","Record":"8,90"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Silver","Athlete": { "AName":"BEER, Klaus","IOC":"GDR","Record":"8,19"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"BOSTON, Ralph","IOC":"USA","Record":"8,16"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Gold","Athlete": { "AName":"WILLIAMS, Randy","IOC":"USA","Record":"8,24"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Silver","Athlete": { "AName":"BAUMGARTNER, Hans","IOC":"FRG","Record":"8,18"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"ROBINSON, Arni","IOC":"USA","Record":"8,03"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Gold","Athlete": { "AName":"ROBINSON, Arni","IOC":"USA","Record":"8,35"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Silver","Athlete": { "AName":"WILLIAMS, Randy","IOC":"USA","Record":"8,11"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"WARTENBERG, Frank","IOC":"GDR","Record":"8,02"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Gold","Athlete": { "AName":"DOMBROVSKI, Lutz","IOC":"GDR","Record":"8,54"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Silver","Athlete": { "AName":"PASCHEK, Frank","IOC":"GDR","Record":"8,21"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"PODLUZHNYI, Valeri","IOC":"URS","Record":"8,18"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Gold","Athlete": { "AName":"LEWIS, Carl","IOC":"USA","Record":"8,54"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Silver","Athlete": { "AName":"HONEY, Gary","IOC":"AUS","Record":"8,24"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"EVANGELISTI, Giovanni","IOC":"ITA","Record":"8,24"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Gold","Athlete": { "AName":"LEWIS, Carl","IOC":"USA","Record":"8,72"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Silver","Athlete": { "AName":"POWELL, Mike","IOC":"USA","Record":"8,49"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"MYRICKS, Larry","IOC":"USA","Record":"8,27"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Gold","Athlete": { "AName":"LEWIS, Carl","IOC":"USA","Record":"8,67"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Silver","Athlete": { "AName":"POWELL, Mike","IOC":"USA","Record":"8,64"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"GREENE, Joe","IOC":"USA","Record":"8,34"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Gold","Athlete": { "AName":"LEWIS, Carl","IOC":"USA","Record":"8,50"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Silver","Athlete": { "AName":"BECKFORD, James","IOC":"JAM","Record":"8,29"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"GREENE, Joe","IOC":"USA","Record":"8,24"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Gold","Athlete": { "AName":"PEDROSO, Ivan","IOC":"CUB","Record":"8,55"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Silver","Athlete": { "AName":"TURIMA, Jai","IOC":"AUS","Record":"8,49"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"SCHURENKO, Roman","IOC":"UKR","Record":"8,31"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Gold","Athlete": { "AName":"PHILLIPS, Dwight","IOC":"USA","Record":"8,59"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Silver","Athlete": { "AName":"MOFFITT, John","IOC":"USA","Record":"8,47"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"MARTINEZ, Joan Lino","IOC":"USA","Record":"6,35"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Gold","Athlete": { "AName":"SALADINO, Irving","IOC":"PAN","Record":"8,34"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Silver","Athlete": { "AName":"MOKOENA, Khotso","IOC":"SAF","Record":"8,24"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"CAMEJO, Ibrahim","IOC":"CUB","Record":"8,20"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Gold","Athlete": { "AName":"GYARMATI, Olga","IOC":"HUN","Record":"5,695"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Silver","Athlete": { "AName":"DE PORTELA, Noëmi Simonetto","IOC":"HUN","Record":"5,695"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"LEYMAN, Ann-Britt","IOC":"SWE","Record":"5,575"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Gold","Athlete": { "AName":"WILLIAMS, Yvette","IOC":"NZL","Record":"6,24"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Silver","Athlete": { "AName":"CHUDINA, Aleksandra","IOC":"URS","Record":"6,14"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"CAWLEY, Shirley","IOC":"GBR","Record":"5,92"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Gold","Athlete": { "AName":"KRZESINSKA, Elzbieta","IOC":"POL","Record":"6,35"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Silver","Athlete": { "AName":"WHITE, Willye","IOC":"USA","Record":"6,09"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"KHNYKINA, Nadezhda","IOC":"URS","Record":"6,07"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Gold","Athlete": { "AName":"KREPKINA, Vera","IOC":"URS","Record":"6,37"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Silver","Athlete": { "AName":"KRZESINSKA, Elzbieta","IOC":"POL","Record":"6,27"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"CLAUS, Hildrun","IOC":"GER","Record":"6,21"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Gold","Athlete": { "AName":"RAND, Mary","IOC":"GBR","Record":"6,76"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Silver","Athlete": { "AName":"SZEWINSKA, Irena","IOC":"POL","Record":"6,60"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"SHCHELKANOVA, Tatyana","IOC":"URS","Record":"6,42"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Gold","Athlete": { "AName":"VISCOPOLEANU, Viorica","IOC":"ROM","Record":"6,82"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Silver","Athlete": { "AName":"SHERWOOD, Sheila","IOC":"GBR","Record":"6,68"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"TALYSHEVA, Tatyana","IOC":"URS","Record":"6,66"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Gold","Athlete": { "AName":"ROSENDAHL, Heidemarie","IOC":"FRG","Record":"6,78"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Silver","Athlete": { "AName":"JORGOWA, Diana","IOC":"BUL","Record":"6,77"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"SURANOVá, Eva","IOC":"TCH","Record":"6,67"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Gold","Athlete": { "AName":"VOIGT, Angela","IOC":"GDR","Record":"6,72"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Silver","Athlete": { "AName":"MCMILLAN, Kathy","IOC":"USA","Record":"6,66"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1976","Medal":"Bronze","Athlete": { "AName":"ALFEEVA, Lidia","IOC":"URS","Record":"6,60"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Gold","Athlete": { "AName":"KOLPAKOVA, Tatyana","IOC":"URS","Record":"7,06"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Silver","Athlete": { "AName":"WUJAK, Brigitte","IOC":"GDR","Record":"7,04"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1980","Medal":"Bronze","Athlete": { "AName":"SKACHKO, Tatyana","IOC":"URS","Record":"7,01"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Gold","Athlete": { "AName":"STANCIU, Anisoara","IOC":"ROM","Record":"6,96"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Silver","Athlete": { "AName":"IONESCU, Vali","IOC":"ROM","Record":"6,81"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"HEARNSHAW, Susan","IOC":"GBR","Record":"6,80"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Gold","Athlete": { "AName":"JOYNER-KERSEE, Jackie","IOC":"USA","Record":"7,40"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Silver","Athlete": { "AName":"DRECHSLER, Heike","IOC":"GDR","Record":"7,22"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"CHISTYAKOVA, Galina","IOC":"URS","Record":"7,11"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Gold","Athlete": { "AName":"DRECHSLER, Heike","IOC":"GER","Record":"7,14"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Silver","Athlete": { "AName":"KRAVETS, Inessa","IOC":"EUN","Record":"7,12"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"JOYNER-KERSEE, Jackie","IOC":"USA","Record":"7,07"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"AJUNWA, Chioma","IOC":"NGR","Record":"7,12"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Silver","Athlete": { "AName":"MAY, Fiona","IOC":"ITA","Record":"7,02"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"JOYNER-KERSEE, Jackie","IOC":"USA","Record":"7,00"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"DRECHSLER, Heike","IOC":"GER","Record":"6,99"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"MAY, Fiona","IOC":"ITA","Record":"6,92"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"KOTOVA, Tatyana","IOC":"RUS","Record":"6,83"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Gold","Athlete": { "AName":"LEBEDEVA, Tatyana","IOC":"RUS","Record":"7,07"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"SIMAGINA, Irina","IOC":"RUS","Record":"7,05"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"KOTOVA, Tatyana","IOC":"RUS","Record":"7,05"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Gold","Athlete": { "AName":"MAGGI, Maurren","IOC":"BRA","Record":"7,04"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"LEBEDEVA, Tatyana","IOC":"RUS","Record":"7,03"}}
+{ "EName":"long_jump" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"OKAGBARE, Blessing","IOC":"NGR","Record":"6,91"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"CONNOLLY, James","IOC":"USA","Record":"13,71"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"TUFFèRE, Alexandre","IOC":"FRA","Record":"12,70"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"PERSAKIS, Ioannis","IOC":"GRE","Record":"12,52"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1900","Medal":"Gold","Athlete": { "AName":"PRINSTEIN, Meyer","IOC":"USA","Record":"14,47"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1900","Medal":"Silver","Athlete": { "AName":"CONNOLLY, James","IOC":"USA","Record":"13,97"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"SHELDON, Lewis Pendleton","IOC":"USA","Record":"13,71"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Gold","Athlete": { "AName":"PRINSTEIN, Meyer","IOC":"USA","Record":"14,325"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Silver","Athlete": { "AName":"ENGLEHARDT, Frederick","IOC":"USA","Record":"13,90"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1904","Medal":"Bronze","Athlete": { "AName":"STANGLAND, Robert","IOC":"USA","Record":"13,365"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1908","Medal":"Gold","Athlete": { "AName":"AHEARNE, Timothy","IOC":"GBR","Record":"14,915"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Silver","Athlete": { "AName":"MACDONALD, J. Garfield","IOC":"USA","Record":"13,71"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1908","Medal":"Bronze","Athlete": { "AName":"LARSEN, Edvard","IOC":"NOR","Record":"14,395"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Gold","Athlete": { "AName":"LINDBLOM, Gustav","IOC":"SWE","Record":"14,76"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Silver","Athlete": { "AName":"ABERG, Georg","IOC":"SWE","Record":"14,51"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1912","Medal":"Bronze","Athlete": { "AName":"ALMLöF, Erik","IOC":"SWE","Record":"14,17"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Gold","Athlete": { "AName":"TUULOS, Vilho","IOC":"FIN","Record":"14,505"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Silver","Athlete": { "AName":"JANSSON, Folke","IOC":"SWE","Record":"14,48"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1920","Medal":"Bronze","Athlete": { "AName":"ALMLöF, Erik","IOC":"SWE","Record":"14,275"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Gold","Athlete": { "AName":"WINTER, Anthony","IOC":"AUS","Record":"15,525"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Silver","Athlete": { "AName":"BRUNETO, Luis","IOC":"ARG","Record":"15,425"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1924","Medal":"Bronze","Athlete": { "AName":"TUULOS, Vilho","IOC":"FIN","Record":"15,37"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Gold","Athlete": { "AName":"ODA, Mikio","IOC":"JPN","Record":"15,21"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Silver","Athlete": { "AName":"CASEY, Levi","IOC":"USA","Record":"15,17"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1928","Medal":"Bronze","Athlete": { "AName":"TUULOS, Vilho","IOC":"FIN","Record":"15,11"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Gold","Athlete": { "AName":"NAMBU, Chuhei","IOC":"JPN","Record":"15,72"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Silver","Athlete": { "AName":"SVENSSON, Eric","IOC":"SWE","Record":"15,32"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1932","Medal":"Bronze","Athlete": { "AName":"OSHIMA, Kenkichi","IOC":"JPN","Record":"15,12"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Gold","Athlete": { "AName":"TAJIMA, Naoto","IOC":"JPN","Record":"16,00"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1936","Medal":"Silver","Athlete": { "AName":"HARADA, Masao","IOC":"JPN","Record":"15,66"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"METCALFE, John Patrick","IOC":"USA","Record":"13,71"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Gold","Athlete": { "AName":"AHMAN, Arne","IOC":"SWE","Record":"15,40"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Silver","Athlete": { "AName":"AVERY, George","IOC":"AUS","Record":"15,365"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1948","Medal":"Bronze","Athlete": { "AName":"SARIALP, Ruhi","IOC":"TUR","Record":"15,025"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"SILVA, Adhemar Ferreira Da","IOC":"FRA","Record":"12,70"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Silver","Athlete": { "AName":"SHCHERBAKOV, Leonid","IOC":"URS","Record":"15,98"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1952","Medal":"Bronze","Athlete": { "AName":"DEVONISH, Arnoldo","IOC":"VEN","Record":"15,52"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Gold","Athlete": { "AName":"SILVA, Adhemar Ferreira Da","IOC":"FRA","Record":"12,70"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Silver","Athlete": { "AName":"EINARSSON, Vilhjalmur","IOC":"ISL","Record":"16,26"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1956","Medal":"Bronze","Athlete": { "AName":"KREER, Vitold","IOC":"URS","Record":"16,02"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Gold","Athlete": { "AName":"SCHMIDT, Józef","IOC":"POL","Record":"16,81"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Silver","Athlete": { "AName":"GORYAEV, Vladimir","IOC":"URS","Record":"16,63"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1960","Medal":"Bronze","Athlete": { "AName":"KREER, Vitold","IOC":"URS","Record":"16,43"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Gold","Athlete": { "AName":"SCHMIDT, Józef","IOC":"POL","Record":"16,85"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Silver","Athlete": { "AName":"FEDOSEEV, Oleg","IOC":"URS","Record":"16,58"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1964","Medal":"Bronze","Athlete": { "AName":"KRAVCHENKO, Viktor","IOC":"URS","Record":"16,57"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Gold","Athlete": { "AName":"SANEEV, Viktor","IOC":"URS","Record":"17,39"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Silver","Athlete": { "AName":"PRUDENCIO, Nelson","IOC":"BRA","Record":"17,27"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1968","Medal":"Bronze","Athlete": { "AName":"GENTILE, Giuseppe","IOC":"ITA","Record":"17,22"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Gold","Athlete": { "AName":"SANEEV, Viktor","IOC":"URS","Record":"17,35"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Silver","Athlete": { "AName":"DREHMEL, Jörg","IOC":"GDR","Record":"17,31"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1972","Medal":"Bronze","Athlete": { "AName":"PRUDENCIO, Nelson","IOC":"BRA","Record":"17,05"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Gold","Athlete": { "AName":"SANEEV, Viktor","IOC":"URS","Record":"17,29"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1976","Medal":"Silver","Athlete": { "AName":"BUTTS, James","IOC":"USA","Record":"17,18"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"DE OLIVEIRA, Joao Carlos","IOC":"USA","Record":"13,71"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Gold","Athlete": { "AName":"UUDMAE, Yaak","IOC":"URS","Record":"17,35"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1980","Medal":"Silver","Athlete": { "AName":"SANEEV, Viktor","IOC":"URS","Record":"17,24"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1896","Medal":"Bronze","Athlete": { "AName":"DE OLIVEIRA, Joao Carlos","IOC":"USA","Record":"13,71"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Gold","Athlete": { "AName":"JOYNER, Al","IOC":"USA","Record":"17,26"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Silver","Athlete": { "AName":"CONLEY, Mike","IOC":"USA","Record":"17,18"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1984","Medal":"Bronze","Athlete": { "AName":"CONNOR, Keith","IOC":"GBR","Record":"16,87"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Gold","Athlete": { "AName":"MARKOV, Christo","IOC":"BUL","Record":"17,61"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Silver","Athlete": { "AName":"LAPSHIN, Igor","IOC":"URS","Record":"17,52"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1988","Medal":"Bronze","Athlete": { "AName":"KOVALENKO, Aleksandr","IOC":"URS","Record":"17,42"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Gold","Athlete": { "AName":"CONLEY, Mike","IOC":"USA","Record":"18,17"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Silver","Athlete": { "AName":"SIMPKINS, Charles","IOC":"USA","Record":"17,60"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1992","Medal":"Bronze","Athlete": { "AName":"RUTHERFORD, Frank","IOC":"BAH","Record":"17,36"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Gold","Athlete": { "AName":"HARRISON, Kenny","IOC":"USA","Record":"18,09"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Silver","Athlete": { "AName":"EDWARDS, Jonathan","IOC":"GBR","Record":"17,88"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"QUESADA, Yulbi","IOC":"CUB","Record":"17,44"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Gold","Athlete": { "AName":"EDWARDS, Jonathan","IOC":"GBR","Record":"17,71"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Silver","Athlete": { "AName":"GARCIA, Yoel","IOC":"CUB","Record":"17,47"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"KAPUSTIN, Denis","IOC":"RUS","Record":"17,46"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Gold","Athlete": { "AName":"OLSSON, Christian","IOC":"SWE","Record":"17,79"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Silver","Athlete": { "AName":"OPREA, Marian","IOC":"ROM","Record":"17,55"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"BURKENYA, Danila","IOC":"RUS","Record":"17,48"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Gold","Athlete": { "AName":"EVORA, Nelson","IOC":"POR","Record":"17,67"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Silver","Athlete": { "AName":"IDOWU, Phillips","IOC":"GBR","Record":"17,62"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Men","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"SANDS, Leevan","IOC":"BAH","Record":"17,59"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"KRAVETS, Inessa","IOC":"UKR","Record":"15,33"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Silver","Athlete": { "AName":"LASOVSKAYA, Inna","IOC":"RUS","Record":"14,98"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Bronze","Athlete": { "AName":"KASPARKOVA, Sarka","IOC":"TSJ","Record":"14,98"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Gold","Athlete": { "AName":"MARINOVA, Tereza","IOC":"BUL","Record":"15,20"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Silver","Athlete": { "AName":"LEBEDEVA, Tatyana","IOC":"RUS","Record":"15,00"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"2000","Medal":"Bronze","Athlete": { "AName":"HOVOROVA, Olena","IOC":"UKR","Record":"14,96"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"ETONE, Francoise Mbango","IOC":"UKR","Record":"15,33"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Silver","Athlete": { "AName":"DEVETZI, Hrysopiyi","IOC":"GRE","Record":"15,25"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"2004","Medal":"Bronze","Athlete": { "AName":"LEBEDEVA, Tatyana","IOC":"RUS","Record":"15,14"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"1996","Medal":"Gold","Athlete": { "AName":"ETONE, Francoise Mbango","IOC":"UKR","Record":"15,33"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Silver","Athlete": { "AName":"LEBEDEVA, Tatyana","IOC":"RUS","Record":"15,32"}}
+{ "EName":"triple jump" ,"DName":"Athletics","Gender":"Women","Edition":"2008","Medal":"Bronze","Athlete": { "AName":"DEVETZI, Hrysopiyi","IOC":"GRE","Record":"15,23"}}
