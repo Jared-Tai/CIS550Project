@@ -24,3 +24,6 @@
 * ~/Old_Files
   * Includes the previous milestone reports and the given .csv data source.
 
+* ~/NodeJS
+  * Contains Node.js documents for the website.
+
