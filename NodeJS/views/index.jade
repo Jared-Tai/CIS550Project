@@ -1,0 +1,90 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    meta(name='description', content='')
+    meta(name='author', content='')
+    title Ask about Olympics
+    // Bootstrap Core CSS
+    link(href='css/bootstrap.min.css', rel='stylesheet')
+    // Custom CSS
+    link(href='css/landing-page.css', rel='stylesheet')
+    // Custom Fonts
+    link(href='font-awesome/css/font-awesome.min.css', rel='stylesheet', type='text/css')
+    link(href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic', rel='stylesheet', type='text/css')
+    // HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+    // WARNING: Respond.js doesn't work if you view the page via file://
+    //if lt IE 9
+      script(src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')
+      script(src='https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js')
+  body
+    .dim(id='dim')
+    div(id='loader')
+    // Navigation
+    nav.navbar.navbar-default.navbar-fixed-top.topnav(role='navigation')
+      .container.topnav
+        // Brand and toggle get grouped for better mobile display
+        .navbar-header
+          button.navbar-toggle(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
+            span.sr-only Toggle navigation
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.navbar-brand.topnav(href='/') Ask About Olympics
+        // Collect the nav links, forms, and other content for toggling
+        #bs-example-navbar-collapse-1.collapse.navbar-collapse
+          ul.nav.navbar-nav.navbar-right
+            li
+              a(href='#about') About
+            li
+              a(href='#services') Services
+            li
+              a(href='#contact') Contact
+        // /.navbar-collapse
+      // /.container
+    // Main Header
+    a(name='main-query' id="main-frame")
+    .intro-header
+      .intro-message
+        h2 Ask about
+        h1 Olympics
+        h5 by Group 21
+        hr.intro-divider
+        form(method='get' action='query')
+          ul.list-inline.intro-main-query
+            li
+              select(name='dis_selected' id='select-discipline' onchange="diSelected()").selectpicker
+                option All Disciplines
+            li
+              select(name='eve_selected' id='select-event' onchange="evSelected()").selectpicker
+                option All Events
+            li
+              select(name='edi_selected' id='select-edition' onchange="edSelected()").selectpicker
+                option All Editions
+            li
+              input(type='submit' value='Search').btn-primary.btn-lg
+    footer
+      .container
+        .row
+          .col-lg-12
+            ul.list-inline
+              li
+                a(href='#') Home
+              li.footer-menu-divider
+              li
+                a(href='#about') About
+              li.footer-menu-divider
+              li
+                a(href='#services') Services
+              li.footer-menu-divider
+              li
+                a(href='#contact') Contact
+            p.copyright.text-muted.small Copyright © Group 21 - 2016. All Rights Reserved Authors: Hongru Du, Jiawei Liu, Yuechen Luo, Jiapo Tai
+    // jQuery
+    script(src='js/jquery.js')
+    // Bootstrap Core JavaScript
+    script(src='js/bootstrap.min.js')
+    script(src='js/index.js')
+    .modal

@@ -1,0 +1,95 @@
+Querys:
+
+1. 选择:Event & Edition & Disipoline 返回 按奖牌数排名的国家： （其实是8个query）
+
+"with Medals as (select A.Edition, N.NName, N.IOC, A.EName, A.DName, A.Gender, A.Medal, count(distinct A.Medal) as MedalNum\n" +
+	"from Nation N left Join Attend A on N.IOC = A.IOC\n" +
+	"group by A.Edition, N.NName, N.IOC, A.EName, A.DName, A.Gender, A.Medal)\n" +
+	
+	"select N.NName, N.IOC, count(M.MedalNum)\n" +
+	"from Nation N left join Medals M on N.IOC = M.IOC\n" + 
+	"where 1 = 1 ";
+
+	if (edi_selected != "All Editions"){
+		queryString += "and M.Edition = "+edi_selected+" "
+	}
+	if (dis_selected != "All Disciplines"){
+		queryString += "and M.DName = '"+dis_selected+"' ";
+	}
+	if (eve_selected != "All Events"){
+		queryString += "and M.EName = '"+eve_selected+"' ";
+	}
+	queryString += 
+	"\ngroup by N.NName, N.IOC\n" + 
+	"order by count(M.MedalNum) desc, N.NName, N.IOC";
+
+2. 选择:Event & Edition & Disipoline 返回 按奖牌数排名的国家和当前年份的人口数： （其实是4个query，因为年份必须选择）
+
+"with Medals as (select A.Edition, N.NName, N.IOC, A.EName, A.DName, A.Gender, A.Medal, count(distinct A.Medal) as MedalNum\n" +
+	  "from Nation N left Join Attend A on N.IOC = A.IOC\n" +
+	"group by A.Edition, N.NName, N.IOC, A.EName, A.DName, A.Gender, A.Medal)\n" +
+	"select N.NName, N.IOC, count(M.Medal), NP.Population\n" + 
+	"from Nation N left join Medals M on N.IOC = M.IOC\n"  +
+	"inner join Nation_Owns_Population NP\n" +
+	"on NP.IOC = M.IOC and NP.Year = M.Edition\n" + 
+	"where NP.Year = " + edi_selected + "\n";
+
+	if (dis_selected != "All Disciplines"){
+		queryString += "and M.DName = '"+dis_selected+"' ";
+	}
+	if (eve_selected != "All Events"){
+		queryString += "and M.EName = '"+eve_selected+"' ";
+	}
+					  
+	queryString += 
+	"group by N.NName, N.IOC, NP.Population\n" +
+	"order by count(M.Medal) desc, N.NName, N.IOC"
+
+3. 选择: Discipline & Event 返回 按奖牌总数排名的年份：（其实是4个query）
+
+	" from Nation N inner Join Attend A on N.IOC = A.IOC"+
+	" group by A.Edition, N.NName, N.IOC, A.EName, A.DName, A.Gender, A.Medal)"+
+	" select edition, count(MedalNum)"+
+	" from Medals"+
+	" where 1=1 ";
+	if (dis_selected != "All Disciplines"){
+		queryString += "and DName = '"+dis_selected+"' ";
+	}
+	if (eve_selected != "All Events"){
+		queryString += "and EName = '"+eve_selected+"' ";
+	}
+	queryString += "group by edition order by edition desc"
+
+
+4. 根据已选择的 Event & Edition, 返回满足要求的Discipline:
+
+ "Select distinct dname From event_of where 1=1";
+	if (eve != "All Events") {
+		queryString = queryString + " and ename = '" + eve + "'";
+	}
+	if (edi != "All Editions") {
+		queryString = queryString + " and edition = '" + edi + "'";
+	}
+	queryString = queryString + " order by dname";
+
+5. 根据已选择的 Discipline & Edition, 返回满足要求的Event:
+
+"Select distinct ename From event_of where 1=1";
+	if (dis != "All Disciplines") {
+		queryString = queryString + " and dname = '" + dis + "'";
+	}
+	if (edi != "All Editions") {
+		queryString = queryString + " and edition = '" + edi + "'";
+	}
+	queryString = queryString + " order by ename";
+
+6. 根据已选择的 Discipline & Event, 返回满足要求的Edition:
+
+"Select distinct edition From event_of where 1=1";
+	if (eve != "All Events") {
+		queryString = queryString + " and ename = '" + eve + "'";
+	}
+	if (dis != "All Disciplines") {
+		queryString = queryString + " and dname = '" + dis + "'";
+	}
+	queryString = queryString + " order by edition";
