@@ -14,7 +14,7 @@
   * `mongoData.json`: JSON document used in the non-relational mongoDB database
 
 * ~/Archieve/Scripts
-  * `TxtConverter.py`: a python-based program that reads in .txt files and convert them into SQL statements
+  * `TxtConverter.py`: a python-based program that reads in .txt files and convert them into JSON documents.
   * `AutoParser.java`: a java program that can read the source code from webpages and extract all the required information
   * `data_insert.py`: a python-based program that generates SQL insert statements, used for populating the db.
 
